@@ -1,0 +1,6 @@
+[1405:28163:1019/181736.448484:ERROR:chrome_browser_main_extra_parts_metrics.cc(228)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[1405:28163:1019/181736.449268:ERROR:chrome_browser_main_extra_parts_metrics.cc(231)] crbug.com/1216328: Checking Bluetooth availability ended.
+[1405:28163:1019/181736.449289:ERROR:chrome_browser_main_extra_parts_metrics.cc(234)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[1405:28163:1019/181736.449660:ERROR:chrome_browser_main_extra_parts_metrics.cc(238)] crbug.com/1216328: Checking default browser status ended.
+[1405:259:1019/181743.813205:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[1446:259:1019/181758.817077:INFO:child_thread_impl.cc(897)] ChildThreadImpl::EnsureConnected()

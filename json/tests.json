@@ -1,0 +1,25 @@
+{
+"tests" :
+[
+  {
+    "test_scenario_id" : "TS_GT_001",
+    "test_cases": [
+      {
+        "test_case_id" :"TC_GT_LIOC_01",
+        "test_case_des" : "Create a order for cash payment and pickup",
+        "data" : {
+            "name": "Harshit",
+            "email": "krishnatrea@gmail.com",
+            "phone_number": "918218233503",
+            "amount": 300,
+            "type_order": "pickup",
+            "type_payment": "cash"
+        }
+      },
+      {
+        
+      }
+    ]
+  }
+]
+}
